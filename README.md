@@ -2,7 +2,7 @@
 - 👀 I’m interested in algo trading
 - proficiency in python, sql, hadoop
 - 🌱 I’m currently learning C# 
-- 💞️ I’m looking to collaborate on algo trading 
+- 💞️ I’m looking to collaborate on big data, algo trading 
 - 📫 How to reach me by message
 
 <!---
