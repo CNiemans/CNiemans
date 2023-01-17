@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @CNiemans
 - 👀 I’m interested in algo trading
+- proficiency in python, sql, hadoop
 - 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on algo trading 
-- 📫 How to reach me ...
+- 📫 How to reach me by message
 
 <!---
 CNiemans/CNiemans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
